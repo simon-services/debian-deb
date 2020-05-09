@@ -1,0 +1,8 @@
+package: debian-deb
+Version: 0.0.1
+Architecture: amd64
+Section: admin
+Essential: no
+Priority: optional
+Maintainer: opunix <francsic.simon@evalgo.org>
+Description: hello world debian deb pkg example
